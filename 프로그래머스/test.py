@@ -5,4 +5,4 @@ def solution(x, n):
 
     return answer
 x, n = map(int, input().strip().split())
-print(solution(x, n))
+print(solution(x, n))    
