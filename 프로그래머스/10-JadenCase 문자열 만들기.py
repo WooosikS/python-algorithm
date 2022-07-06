@@ -9,9 +9,6 @@ def solution(s):
     answer = ' '.join(strr)
     return answer
 
-
-
-
 s = "a a a a a a a a"
 s1 = "3people unFollowed me"
 s2 = "for the last week"
