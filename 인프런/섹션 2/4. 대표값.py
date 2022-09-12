@@ -17,3 +17,6 @@ for index, value in enumerate(llist):
             score = value
             res = index + 1
 print(avg, res)
+
+# my solution
+# 같다

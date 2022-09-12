@@ -15,3 +15,6 @@ for i in range(n+m+1):
 for i in range(n+m+1):
     if cnt[i] == max:
         print(i, end=' ')
+
+# my solution
+# 같다
